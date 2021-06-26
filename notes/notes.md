@@ -1,4 +1,4 @@
-# life's routes and notes
+# notes
 
 <https://github.com/jichenghu/guideline>
 
